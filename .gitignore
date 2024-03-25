@@ -20,3 +20,6 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+/.vs/random generation
+/x64/Debug
+/random g.296f871d/x64/Debug
